@@ -4,12 +4,19 @@
 .bilder{
     height: 200px;
     width: 600px;
-    
-
+    margin-left: 400px;
     text-align: center;
+    border: solid black;
+    
+    
     
 
 }
 .center{
     width: 1000px;
+    
+    
+}
+.bg{
+    background-color: darkolivegreen;
 }
